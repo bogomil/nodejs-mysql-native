@@ -1,16 +1,16 @@
-{ "name" : "mysql-native"
+{ "name" : "mysql-native-prerelease"
 , "description" : "MySql protocol client for Node.Js"
-, "version" : "0.4.2"
+, "version" : "1.4.2"
 , "maintainers" :
   [ { "name": "Andrey Sidorov"
     , "email": "sidoarres@yandex.ru"
     }
   ]
-, "bugs" : { "web" : "http://github.com/sidorares/nodejs-mysql-native/issues" }
+, "bugs" : { "web" : "http://github.com/chrisdew/nodejs-mysql-native/issues" }
 , "licenses" : [ { "type" : "MIT" } ]
 , "repositories" :
   [ { "type" : "git"
-    , "url" : "http://github.com/sidorares/nodejs-mysql-native"
+    , "url" : "http://github.com/chrisdew/nodejs-mysql-native"
     }
   ]
 , "main" : "./lib/mysql-native"
